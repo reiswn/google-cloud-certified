@@ -1,8 +1,9 @@
 
-# Google Cloud Certified - Cloud Digital Leader (English)
+# Google Cloud Certified - Professional Cloud Developer (English)
 
-- Exam Duration: 90 Minutes
+- Exam Duration: 2 hours
 - Delivery Method: Online Proctored
+- 50 to 60 multiple choice and multiple select questions
 
 ### Before Your Exam
 - Setup your env
@@ -28,13 +29,13 @@
 
 ## Helpers
 
-- Go to [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader)
-  - Click at **Quick Links** and find "Review sample questions"
-  - You should see a google form with 30 questions
-  - Some of them appeared on my exam
+- Go to [Professional Cloud Developer](https://cloud.google.com/learn/certification/cloud-developer?hl=en)
+  - Click at Quick Links and find "Review sample questions"
+  - You should see a google form with 52 questions
+- [Cloud Developer Learning Path](https://www.cloudskillsboost.google/paths/19)
 
 ## References
 
- - [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader)
+ - [Professional Cloud Developer](https://cloud.google.com/learn/certification/cloud-developer?hl=en)
  - [Certmetrics](https://cp.certmetrics.com/google/en/login)
 
